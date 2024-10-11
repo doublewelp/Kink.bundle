@@ -34,7 +34,7 @@ Restart Plex if you don't see the new agent. You must use a Movie type library f
 
 **Why did you write this? The Plex team said they're going to transition from the old Python agent framework to _something new_.**
 
-This took about 8 hours to write and got me to learn new things (and also to hate the Plex team, thanks for killing the agent documentation page, it was a treat to learn Python syntax from a decade ago and to figure out undocumented APIs by looking at other agents).
+This took about 8 hours to write and got me to learn new thing. And also to hate the Plex team, thanks for killing the agent documentation page, it was a treat to learn Python syntax from a decade ago and to figure out undocumented APIs by looking at other agents.
 
 **Is this secure?**
 
