@@ -26,7 +26,9 @@ The agent will scrape all Kink.com websites that use the kink.com/shoot/_shoot_i
 
 # Installation
 
-Get the the bundle folder, stick it in your Plex plugin folder [https://support.plex.tv/hc/en-us/articles/201106098-How-do-I-find-the-Plug-Ins-folder-]. Restart Plex if you don't see the new agent. You must use a Movie type library for it to appear.
+Get the the bundle folder, stick it in your Plex plugin folder [https://support.plex.tv/hc/en-us/articles/201106098-How-do-I-find-the-Plug-Ins-folder-]. Remember to rename the Kink.bundle-main folder to Kink.bundle. 
+
+Restart Plex if you don't see the new agent. You must use a Movie type library for it to appear.
 
 # FAQ
 
